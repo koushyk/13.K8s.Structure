@@ -1,1 +1,1 @@
-#### mikube deploy (vagrant)
+#### minikube deploy (vagrant)
